@@ -1,0 +1,2 @@
+# UnityLogStored
+存储unity程序运行中输出的log保存到每天的日志文件里
